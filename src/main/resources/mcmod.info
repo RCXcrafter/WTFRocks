@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wtfrocks",
+  "name": "WTFRocks",
+  "description": "Addon for whiskytangofox's mods for more stone type compatibility",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RCXcrafter"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
